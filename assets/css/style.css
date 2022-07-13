@@ -1,0 +1,18 @@
+body{
+    font-family: 'Dosis', sans-serif;
+}
+
+ul {
+    list-style: none;
+    padding: 1rem 1rem;
+}
+
+img {
+    width: 75%;
+}
+
+#resultados {
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+}
